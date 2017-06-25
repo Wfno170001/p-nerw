@@ -1,2 +1,2 @@
-# p-nerw
-Using Nodejs + Express + React + Webpack to build a easy project 
+# p-srw
+Using Swagger-ui, React and Webpack to build a simple Nodejs project
