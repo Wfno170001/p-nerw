@@ -1,12 +1,7 @@
 const React = require('react');
-const ReactDOM = require('react-dom');
 
 const menuModule = require('./menu');
 const tableModule = require('./datatable');
-
-const ajaxHandler = require('./../handler/ajaxhandler');
-const tableHandler = require('./../handler/tableHandler');
-const pageHandler = require('./../handler/pagehandler');
 
 class Container extends React.Component {
     constructor(props){
